@@ -2,6 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.2.
 
+## Libraries ready installed
+
+NGRX/entity is installed and ready to use along with the help of schematics.
+
+JSON Server is installed and ready to be used as a backend.
+
+PRIMENG is also installed for the feel and look of the app.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
